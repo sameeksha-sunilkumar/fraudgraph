@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn==0.29.0
+sqlalchemy==2.0.30
+pydantic==2.7.1
+faker==24.11.0
+scikit-learn==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+python-dotenv==1.0.1
+jaclang>=0.7.0
