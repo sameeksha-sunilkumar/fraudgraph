@@ -22,6 +22,7 @@ app.add_middleware(
         "http://localhost:5173",
         "http://localhost:3000",
         "https://fraudgraph.vercel.app",
+        "https://fraudgraph-three.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
